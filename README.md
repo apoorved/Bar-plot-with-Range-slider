@@ -1,3 +1,8 @@
+# About
+A simple Bar plot(d3) with highlighting bars based on the value of slider or selectMenu(MaterialUI version "^4.12.4").
+
+[![Project-Sample.png](https://i.postimg.cc/8c0m54f8/Project-Sample.png)](https://postimg.cc/RJwHpcTG)
+Thank You Sateesh Ganaparapu for the help!
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
